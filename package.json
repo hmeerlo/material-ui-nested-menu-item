@@ -1,6 +1,6 @@
 {
-  "name": "material-ui-nested-menu-item",
-  "version": "1.0.2",
+  "name": "@inmotio/material-ui-nested-menu-item",
+  "version": "1.0.3",
   "description": "Infinite nested material menus",
   "repository": {
     "type": "git",
