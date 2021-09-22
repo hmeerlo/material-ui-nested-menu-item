@@ -4,7 +4,7 @@
   "description": "Infinite nested material menus",
   "repository": {
     "type": "git",
-    "url": "https://github.com/azmenak/material-ui-nested-menu-item"
+    "url": "https://github.com/hmeerlo/material-ui-nested-menu-item"
   },
   "scripts": {
     "test": "echo \"No units tests.\"",
